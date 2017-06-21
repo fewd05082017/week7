@@ -12,7 +12,7 @@ From the repository homepage (which will be http://github.com/YOURUSERNAME/week7
 
 ### Step 3 - Build!
 
-Set clouds_2.gif as the background image. Create a div for the ground/grass with green background and appropriate height - position it at the bottom with `position: fixed;`;
+Set clouds.gif as the background image. Create a div for the ground/grass with green background and appropriate height - position it at the bottom with `position: fixed;`;
 
 Create an `<h1>` and display FARM PARTY!. For a bonus, use a fun custom font (like from Google Fonts).
  
