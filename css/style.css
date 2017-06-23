@@ -20,14 +20,17 @@ h1 {
 }
 
 button {
+	display: inline-block;
+	text-align: center;
 	border-radius: 5;
 	width: 150px;
 	height: 130px;
 	position: fixed;
-	top: 300px;
-	left: 650px;
-	right: 650px;
+	top: 50%;
+	left: 50%;
 	font-size: 16px;
+	margin-top: -75px;
+	margin-left: -65px;
 	padding: 5px;
 	background: url("../images/sun.gif");
 	}
