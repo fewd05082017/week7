@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: url("../images/cloud.gif") repeat center top;
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Coming Soon', cursive;	
+	padding-top: 200px;
+	color: #009938;
+	font-size: 60px;
+
+}
+
+button {
+	display: inline-block;
+	text-align: center;
+	border-radius: 5;
+	width: 150px;
+	height: 130px;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	font-size: 16px;
+	margin-top: -75px;
+	margin-left: -65px;
+	padding: 5px;
+	background: url("../images/sun.gif");
+	}
+
+
+img {
+	position: absolute;
+}
+
+#trees {
+  background: url("../images/tree.png") repeat center top;
+  height: 30%;
+  position: fixed; 
+  width: 100%;
+  bottom: 0; 
+}
