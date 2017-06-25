@@ -1,0 +1,58 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html, #sky {
+	background: url("../images/cloud.gif") no-repeat fixed center;
+    background-size: 100% 100%;
+}
+
+h1 {
+	font-family: 'Crafty Girls', cursive;
+	color: firebrick;
+	font-size: 40px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+#grass {
+    height: 50%;
+    width: 100%;
+    position: fixed;
+    bottom: 0%;
+    background-color: springgreen;
+}
+
+img {
+  	position: fixed;
+ }
+
+ #tree {
+ 	top: 100px;
+  	right: 20px;
+ }
+
+ #sun {
+ 	top: 100px;
+ 	left: 120px;
+ }
+
+ #man {
+ 	top: 350px;
+  	left: 300px;
+ } 
+
+ #cow {
+ 	top: 150px;
+  	left: 20px;
+ }  
+ 
+ #eggs {
+ 	top: 400px;
+  	right: 450px;
+ } 
+ #chick {
+ 	top: 400px;
+  	right: 400px;
+ }  
