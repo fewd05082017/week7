@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Patrick+Hand+SC');
+
+body {
+	background-image: url("../images/cloud.gif");
+}
+
+h1 {
+	font-family:"Patrick Hand SC", cursive, serif;
+/*	font-size: 100px;
+	text-align: center;*/
+}
+
+.sun img {
+	height: 25%;
+	width: 25%;
+	padding-right: 50px;
+	float: right;
+}
+
+#rooster1, #rooster2, #rooster3, #rooster4 {
+	margin: 100px;
+}
+
+#pig2 {
+	float: right;
+}
+
+div .tree {
+	margin: auto;
