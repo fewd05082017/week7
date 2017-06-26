@@ -1,0 +1,34 @@
+/*#sky {
+	background-color: #B9EAF1;
+	width: cover;
+	height: 400px;
+}*/
+
+
+body {
+    background-image: url("../images/cloud.gif");
+    background-repeat: repeat-x;
+}
+
+img {
+  position: fixed;
+}
+
+#ground {
+	position: relative;
+	top: 300px;
+	background-color: #518753;
+	width: cover;
+	height: 600px;
+}
+
+#sheep {
+  top: 400px;
+  left: 50px;
+}
+
+#fence {
+  top: 400px;
+  left: 400px;
+  width: 300px;
+}
