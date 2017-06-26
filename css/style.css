@@ -1,0 +1,14 @@
+body{ 
+background:transparent url("../images/cloud.gif") center center no-repeat;
+background-size: 100%;
+}
+/*img{*/
+	position: fixed;
+}
+#cow{
+	text-align: center;
+}
+#sun{ 
+display: block;
+margin: auto;
+ }
