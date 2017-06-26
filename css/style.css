@@ -1,0 +1,39 @@
+
+* {
+	font-family: 'Shadows Into Light', cursive;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-image: url("../images/cloud.gif");
+}
+
+h1 {
+	text-align: center;
+	font-size: 150px;
+}
+
+#grassground {
+	position: absolute;
+	bottom: 0;
+	background-color: #6B8E23;
+	height: 300px;
+	width: 100%;
+}
+
+#tree {
+	size: 150px;
+	position: absolute;
+	bottom: 286px;
+}
+
+#pig {
+	size: 150px;
+	position: absolute;
+	bottom: 100px;
+	z-index: 1000;
+	left: 5%;
+
+}
+
