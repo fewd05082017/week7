@@ -1,14 +1,35 @@
-body{ 
-background:transparent url("../images/cloud.gif") center center no-repeat;
-background-size: 100%;
-}
-/*img{*/
-	position: fixed;
-}
-#cow{
-	text-align: center;
-}
+
 #sun{ 
 display: block;
 margin: auto;
  }
+ #ground{ 
+background-color: green;
+background-size: 100px;
+}
+img{
+	position: fixed;
+}
+
+h1{ 
+color: green; 
+font-style: italic;
+text-align: center;
+padding-top: 100px;
+}
+#ground{
+	background-color:#3cba54;
+	height: 100%;
+	padding: 80px;
+}
+#background{
+	background:transparent url("../images/cloud.gif") center center repeat;
+	background-size: 80%;
+	height: 960px;
+	margin-top: 50px;
+	width: auto;
+}
+#cow3{ 
+top: 300px;
+left:100px;
+}
